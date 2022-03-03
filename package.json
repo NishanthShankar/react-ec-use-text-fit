@@ -1,0 +1,21 @@
+{
+  "name": "react-ec-use-text-fit",
+  "version": "1.0.0",
+  "description": "React hook used to fit text in a container",
+  "main": "dist.js",
+  "keywords": [
+    "react",
+    "fit",
+    "text",
+    "dynamic"
+  ],
+  "author": "Nishanth Shankar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NishanthShankar/react-ec-use-text-fit.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
