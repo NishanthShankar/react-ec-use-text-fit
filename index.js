@@ -15,7 +15,7 @@ const useFitText = (text, ref, options = {}) => {
       )
       setFontSize(fontSize)
     } catch {}
-  }, [ref.current])
+  }, [ref.current, text.length])
   return fontSize
 }
 
